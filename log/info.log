@@ -1,0 +1,6 @@
+2021-01-27 20:33:28 INFO  Main:19 - კომუნალური გადახდილია: Water{customerNumber='152577', amount=6.65}
+2021-01-27 20:33:28 INFO  Main:19 - კომუნალური გადახდილია: Electricity{customerNumber='152577', amount=135.88}
+2021-01-27 20:34:11 INFO  Main:19 - კომუნალური გადახდილია: Water{customerNumber='asdfg55', amount=6.65}
+2021-01-27 20:34:11 INFO  Main:19 - კომუნალური გადახდილია: Electricity{customerNumber='152577', amount=135.88}
+2021-01-27 20:34:19 INFO  Main:19 - კომუნალური გადახდილია: Water{customerNumber='asdfg55', amount=6.65}
+2021-01-27 20:34:19 INFO  Main:19 - კომუნალური გადახდილია: Electricity{customerNumber='15_2577', amount=135.88}
